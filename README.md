@@ -7,7 +7,7 @@ Artistic neural style transfer is an optimization technique used to take two ima
 ## Installing
 Clone this repository to your local computer
 ``` bash
-git https://github.com/bensonruan/Neural-Style-Transfer.git
+git clone https://github.com/bensonruan/Neural-Style-Transfer.git
 ```
 Point your localhost to the cloned root directory
 
